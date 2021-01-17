@@ -1,4 +1,4 @@
-# Bitcoin_Predictions
+# How to predict the Bitcoin Prices with Machine Learning
 
 Follow video tutorial at:
 
